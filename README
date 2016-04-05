@@ -1,0 +1,33 @@
+how to compile questionA:
+g++ -c lab3_A.cpp
+./lab3_A.o
+
+
+questionB:
+  
+ 1.
+ size1000
+ sort(): 0 seconds
+ v1/v2 are different.
+ insertion_sort(): 0.1 seconds
+ v1/v2 are the same.
+ 2.
+ size=10000
+ sort(): 0 seconds
+ v1/v2 are different.
+ insertion_sort(): 1.28 seconds
+ v1/v2 are the same.
+ 
+ 3.
+ size=100000
+ sort(): 0.04 seconds
+ v1/v2 are different.
+ insertion_sort(): 128.2 secondss
+ v1/v2 are the same.
+ 
+ 4.
+ size = 1000000
+ sort(): 0.31 seconds
+ v1/v2 are different.
+ insertion_sort(): 7577.89 seconds
+ v1/v2 are the same.
